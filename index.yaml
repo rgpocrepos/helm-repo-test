@@ -1,0 +1,19 @@
+apiVersion: v1
+entries:
+  mongodb:
+  - apiVersion: v1
+    created: "2022-05-01T11:29:19.135168+08:00"
+    digest: c3ae4eede379ce5cb969ed39225f972ba195359eae5f19d050fc9b96a62578a8
+    name: mongodb
+    urls:
+    - mongodb-0.1.0.tgz
+    version: 0.1.0
+  mongoex:
+  - apiVersion: v1
+    created: "2022-05-01T11:29:19.135168+08:00"
+    digest: 33b8062c1fd2f4ed3863b6481ac23e942e6ba95352b337783cf0dee4eb53dc58
+    name: mongoex
+    urls:
+    - mongoex-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-05-01T11:29:19.1341901+08:00"
